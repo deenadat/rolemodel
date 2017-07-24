@@ -1,6 +1,6 @@
 rolemodel
 =========
-
+Modified to support CFN template
 [![Code Health](https://landscape.io/github/scopely-devops/rolemodel/master/landscape.svg)](https://landscape.io/github/scopely-devops/rolemodel/master)
 
 **Rolemodel** is a command line tool that helps you set up and maintain
